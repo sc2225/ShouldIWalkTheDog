@@ -6,6 +6,7 @@ public class Dog {
 	
 	public Dog(DogWalkFactory dw) {
 	
+		//passing in the type of dog factory we want to call
 		obj = dw;
 		
 	}
